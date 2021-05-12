@@ -13,3 +13,8 @@ Database contains two Tables- Users Table & Transaction Table
 
 Flow of the Website: Home Page > View all Users > Select and View one User > Transfer Money > Select reciever > View all Users > View Transfer History.
 # basic_banking_system_sparks
+
+
+
+https://user-images.githubusercontent.com/63140467/118024905-d83b1780-b37c-11eb-9a59-9ccfaf7c7b7e.mp4
+
